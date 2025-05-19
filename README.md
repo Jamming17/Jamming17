@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**Jamming17/Jamming17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there, I am Jack AKA Jamming17
+
+### About Me
+I am (almost) a Computer Science graduate with a strong interest in many forms of software development. I am currently based in the UK and actively seeking opportunities in south England and in Reykjavík, Iceland. My degree has given me a solid foundation in many programming languages, full-stack development, cloud development, machine learning and secure development. I have completed many projects - solo and in teams - including a social media platform deployed with Microsoft Azure, a custom language interpreter in Haskell, game development in Java, Python and JavaScript, a booking system in C#, and an LLM-assisted e-learning platform in Java.
+
+I am particularly passionate about writing clean and efficient code to ease collaboration work and keeping software secure and protected against vulnerabilities. I am looking to bring my adaptability, enthusiasm and problem-solving skills into the tech industry as I begin my career.
+
+### Experienced in...
+
+Programming Languages:
+- Python
+- Java
+- JavaScript
+- C#
+- Haskell
+
+Full Stack Technologies:
+- Vue.js
+- Bootstrap
+- Node.js
+- Microsoft Azure Function Apps
+- Google App Engine
+- SQL and NoSQL Databases
+
+Development Techniques:
+- Agile and Waterfall Methodologies
+- Scrum
+- Security-First Development
+
+### Current Goals
+Looking to build a portfolio of full-stack projects so I am ready for employment. I will update here as I progress!
+Current goal: create a base portfolio website
+
+### Find Me Elsewhere
+[LinkedIn](https://www.linkedin.com/in/jack-chiplin-b60164334/)
