@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hello there, I am Jack AKA Jamming17
 
 ### About Me
@@ -29,11 +16,14 @@ Programming Languages:
 
 Full Stack Technologies:
 - Vue.js
+- React
+- Tailwind CSS
 - Bootstrap
 - Node.js
+- Express.js
 - Microsoft Azure Function Apps
 - Google App Engine
-- SQL and NoSQL Databases
+- SQL and NoSQL Databases (Postgres and Cosmos)
 
 Development Techniques:
 - Agile and Waterfall Methodologies
@@ -46,3 +36,4 @@ Current goal: create a base portfolio website
 
 ### Find Me Elsewhere
 [LinkedIn](https://www.linkedin.com/in/jack-chiplin-b60164334/)
+[Portfolio](https://jackchiplin-portfolio.netlify.app/)
