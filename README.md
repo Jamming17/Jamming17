@@ -39,4 +39,5 @@ I am currently building a full-stack application that will display a list of "Ni
 
 ### Find Me Elsewhere
 [LinkedIn](https://www.linkedin.com/in/jack-chiplin-b60164334/)
+
 [Portfolio](https://jackchiplin-portfolio.netlify.app/)
