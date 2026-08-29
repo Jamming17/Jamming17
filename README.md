@@ -34,4 +34,4 @@ Development Techniques:
 As I am working full-time, I currently don't have any web projects on the go, though this may change soon.
 
 ### Future Plans
-I am interesting in working with NextJS, Jest and AWS as they are commonly used technologies that I have never touched.
+I am interested in working with NextJS, Jest and AWS as they are commonly used technologies that I have never touched.
